@@ -1,0 +1,21 @@
+[SCENE]
+background=procedural://last_breeze
+music=procedural://ending
+[DIALOGUE]
+NARRATOR|You move the Core's energy into Aera's world.
+NARRATOR|For the first time, you see Aera clearly.
+NARRATOR|She reaches toward you.
+NARRATOR|But the worlds begin to separate.
+AERA|Wait—
+NARRATOR|You smile.
+NARRATOR|The Core activates.
+NARRATOR|Her world survives.
+NARRATOR|Yours fades into the storm.
+[WAIT]
+0.8
+[DIALOGUE]
+NARRATOR|ENDING II
+NARRATOR|THE LAST BREEZE
+[END]
+next=credits
+

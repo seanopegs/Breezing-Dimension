@@ -1,0 +1,22 @@
+[SCENE]
+background=procedural://dimension_core
+music=procedural://final_story
+[DIALOGUE]
+NARRATOR|At the edge of the storm, Aera appears for the first time—\na silhouette woven from light.
+AERA|So that's what the Core was built for.
+PLAYER|To repair the dimensions?
+AERA|No.
+AERA|To sacrifice one.
+AERA|The Core cannot stabilize both worlds\nwithout enough dimensional energy.
+PLAYER|The fragments.
+AERA|Exactly.
+AERA|If we have enough...
+AERA|maybe we don't have to choose.
+[WAIT]
+0.6
+[DIALOGUE]
+NARRATOR|WARNING
+NARRATOR|DIMENSIONAL COLLAPSE DETECTED
+[END]
+next=level_final
+

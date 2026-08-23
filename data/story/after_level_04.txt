@@ -1,0 +1,12 @@
+[SCENE]
+background=procedural://collapsing_worlds
+music=procedural://story
+[DIALOGUE]
+AERA|I found the Core.
+AERA|But there's something wrong.
+AERA|It's pulling both dimensions toward each other.
+AERA|The worlds aren't separating anymore.
+AERA|They're collapsing.
+[END]
+next=level_05
+

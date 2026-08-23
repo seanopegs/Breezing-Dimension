@@ -1,0 +1,29 @@
+[SCENE]
+background=procedural://world_that_breathes
+music=procedural://ending
+[DIALOGUE]
+NARRATOR|The fragments begin to resonate.
+NARRATOR|One by one, the broken pieces of reality reconnect.
+NARRATOR|Stillness. Wind. Light.
+NARRATOR|For one terrifying moment, both worlds collide.
+NARRATOR|Then...
+NARRATOR|the storm stops.
+NARRATOR|Aera stands before you. Not a hologram.\nShe is truly here.
+AERA|So this is what the wind feels like here.
+PLAYER|It feels the same.
+[WAIT]
+0.8
+[DIALOGUE]
+NARRATOR|The dimensions were never meant\nto exist alone.
+NARRATOR|Stillness gives the world form.
+NARRATOR|The wind gives it life.
+NARRATOR|And somewhere between the two...
+NARRATOR|a new world began to breathe.
+[WAIT]
+0.8
+[DIALOGUE]
+NARRATOR|TRUE ENDING
+NARRATOR|A WORLD THAT BREATHES
+NARRATOR|BREEZING DIMENSION
+[END]
+next=credits

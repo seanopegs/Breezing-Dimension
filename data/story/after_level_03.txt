@@ -1,0 +1,12 @@
+[SCENE]
+background=procedural://ancient_machine
+music=procedural://story
+[DIALOGUE]
+AERA|The Fracture wasn't an accident.
+AERA|Someone tried to control the boundary between our worlds.
+NARRATOR|You find an ancient machine.
+NARRATOR|A symbol is carved into its surface:
+NARRATOR|THE CORE.
+[END]
+next=level_04
+

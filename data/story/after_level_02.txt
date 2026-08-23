@@ -1,0 +1,14 @@
+[SCENE]
+background=procedural://parallel_horizon
+music=procedural://story
+[DIALOGUE]
+NARRATOR|The voice returns.
+AERA|My name is Aera.
+AERA|I don't know where I am.
+AERA|But every time you shift dimensions,\nI can see your world.
+NARRATOR|A long silence follows.
+AERA|I think we're standing in the same place.
+AERA|But not in the same reality.
+[END]
+next=level_03
+

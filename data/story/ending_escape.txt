@@ -1,0 +1,18 @@
+[SCENE]
+background=procedural://silent_core
+music=procedural://ending
+[DIALOGUE]
+NARRATOR|You shut down the Core.
+NARRATOR|The connection between dimensions disappears.
+NARRATOR|You survive.
+NARRATOR|Aera does not.
+NARRATOR|The wind becomes quiet.
+NARRATOR|Too quiet.
+[WAIT]
+0.8
+[DIALOGUE]
+NARRATOR|ENDING I
+NARRATOR|THE STILL WORLD
+[END]
+next=credits
+

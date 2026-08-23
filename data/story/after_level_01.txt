@@ -1,0 +1,12 @@
+[SCENE]
+background=procedural://crystal_signal
+music=procedural://story
+[DIALOGUE]
+NARRATOR|The strange crystal pulses in your hand.
+NARRATOR|For a moment, you hear a voice.
+AERA|Can you hear me?
+NARRATOR|The signal disappears.
+NARRATOR|Ahead, the wind grows stronger.
+[END]
+next=level_02
+

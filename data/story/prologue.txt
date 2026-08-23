@@ -1,0 +1,29 @@
+[SCENE]
+background=procedural://before_the_fracture
+music=procedural://story
+
+[DIALOGUE]
+NARRATOR|“Even a broken world remembers how to breathe.”
+
+[WAIT]
+0.8
+
+[DIALOGUE]
+NARRATOR|There was once only one world.
+NARRATOR|A world where the wind moved freely,\ncarrying life from one place to another.
+NARRATOR|Then came the Fracture.
+NARRATOR|Reality split in two.
+NARRATOR|One world remained still.
+NARRATOR|The other became consumed by endless wind.
+NARRATOR|And somewhere between them...
+NARRATOR|you woke up.
+
+[WAIT]
+0.7
+
+[DIALOGUE]
+NARRATOR|BREEZING DIMENSION
+
+[END]
+next=level_01
+
