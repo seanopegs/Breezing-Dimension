@@ -4,8 +4,8 @@ Game puzzle-platformer 2D berbasis Godot 4.x tentang satu dunia yang terbelah me
 
 ## Menjalankan game
 
-1. Buka folder ini melalui Godot 4.3 atau lebih baru.
-2. Jalankan project (`F6`/`F5`). Main scene sudah diarahkan ke `MainMenu.tscn`.
+1. Impor `project.godot` melalui Godot 4.6, versi yang tercatat di konfigurasi proyek.
+2. Jalankan project dengan `F5`. Main scene adalah `scenes/menu/MainMenu.tscn`.
 
 Resolusi desain adalah 1152×648. Input keyboard dan controller sudah terdaftar di `project.godot`.
 
